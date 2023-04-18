@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/gold"
+    },
+    "B": {
+      "tag": "forge:tools/bows"
+    },
+    "S": {
+      "tag": "forge:string"
+    },
+    "|": {
+      "tag": "forge:ingots/gold"
+    }
+  },
+  "pattern": [
+    " #S",
+    "|BS",
+    " #S"
+  ],
+  "result": {
+    "item": "morebows:gold_bow"
+  },
+  "show_notification": true
+}

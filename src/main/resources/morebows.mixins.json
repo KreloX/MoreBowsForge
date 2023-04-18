@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "krelox.morebows.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "morebows.refmap.json",
+  "mixins": [
+    "ItemInHandRendererMixin",
+    "AbstractClientPlayerMixin"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}

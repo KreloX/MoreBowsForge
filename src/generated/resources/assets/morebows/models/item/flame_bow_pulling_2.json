@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "morebows:item/flame_bow_pulling_2"
+  }
+}

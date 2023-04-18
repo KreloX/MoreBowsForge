@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/iron"
+    },
+    "B": {
+      "tag": "forge:tools/bows"
+    },
+    "S": {
+      "tag": "forge:string"
+    },
+    "|": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    " #S",
+    "|BS",
+    " #S"
+  ],
+  "result": {
+    "item": "morebows:iron_bow"
+  },
+  "show_notification": true
+}

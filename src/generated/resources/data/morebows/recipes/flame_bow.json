@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:netherrack"
+    },
+    "B": {
+      "item": "morebows:iron_bow"
+    },
+    "S": {
+      "tag": "forge:rods/blaze"
+    },
+    "|": {
+      "tag": "forge:ingots/gold"
+    }
+  },
+  "pattern": [
+    "#S",
+    "|B",
+    "#S"
+  ],
+  "result": {
+    "item": "morebows:flame_bow"
+  },
+  "show_notification": true
+}
